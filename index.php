@@ -712,7 +712,7 @@ $result = mysqli_query($conn, $sql);
 
                     <div class="project-links">
 
-                        <a href="#" target="_blank">
+                        <a href="https://github.com/sakil-anuar/portfolio.git" target="_blank">
                             GitHub →
                         </a>
 
